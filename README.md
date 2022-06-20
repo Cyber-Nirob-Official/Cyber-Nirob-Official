@@ -27,7 +27,7 @@
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
-- 😏 Me 😎 :- HridoY Ahammed Nirob      (Cyber Nirob)
+-Me 😎 :- HridoY Ahammed Nirob (Cyber Nirob)
  
 <img align="center" alt="line" src="https://github.com/DalpatRathore/dalpatrathore/blob/main/assets/images/line-2.svg">
  
