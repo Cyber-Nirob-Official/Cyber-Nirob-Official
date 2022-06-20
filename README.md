@@ -110,11 +110,11 @@
 <br><br>
 <h3> My Profile Visitors 😊 :</h3>
 <br>
-<img src="https://profile-counter.glitch.me/Cyber-Nirob/count.svg" alt="Visitors">
+<img src="https://profile-counter.glitch.me/Cyber-Nirob+Official/count.svg" alt="Visitors">
 
  
 
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/Cyber-Nirob/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Cyber-Nirob&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Cyber-Nirob-Official/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=Cyber-Nirob&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
  
 
