@@ -71,7 +71,7 @@
 [![Instagram](https://img.shields.io/badge/INsTa-%40Cyber.Nirob-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/Cyber.Nirob)
 [![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/CYBER.Nirob)
 [![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/CYBER.Nirob)
-[![Github](https://img.shields.io/badge/Github-Cyber-Nirob-Officialgreen?style=for-the-badge&logo=github)](https://github.com/Cyber-Nirob-Official)
+[![Github](https://img.shields.io/badge/Github-Cyber-Nirobgreen?style=for-the-badge&logo=github)](https://github.com/Cyber-Nirob-Official)
  
 ### ⚙️   Language & programming
  
